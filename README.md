@@ -1,4 +1,4 @@
-# Measuring Kafka transactional performance
+# Kafka transactional performance
 
 In a nutshell we compare multi-partition write (`BaseWritesBench`) with atomic multi-partition write (`TxWritesBench`) and naive streaming with transactional streaming (`TxStreamingBench`).
 
